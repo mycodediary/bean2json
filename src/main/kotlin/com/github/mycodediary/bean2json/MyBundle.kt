@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.mycodediary.bean2json
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
